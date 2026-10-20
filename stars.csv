@@ -1,84 +1,84 @@
-仓库,分类,中文用途,建议,★,语言,star日期,最后提交,链接
-public-apis/public-apis,后端 / 自托管服务,免费 API 的集体清单，做小工具找数据源时先翻这里,keep,490537,Python,2026-07-08,2026-10-19,https://github.com/public-apis/public-apis
-macrozheng/mall,后端 / 自托管服务,Spring Boot + MyBatis 的完整电商系统，学习/二次开发用,review,84932,Java,2026-06-22,2026-09-15,https://github.com/macrozheng/mall
-metabase/metabase,后端 / 自托管服务,开源 BI 与内嵌分析工具，接数据库就能出报表看板,review,49745,Clojure,2026-09-18,2026-10-20,https://github.com/metabase/metabase
-glanceapp/glance,后端 / 自托管服务,自托管的聚合首页，把各类订阅、信息源收在一屏,review,37561,Go,2026-06-22,2026-10-15,https://github.com/glanceapp/glance
-doocs/source-code-hunter,后端 / 自托管服务,主流框架源码剖析（Spring、MyBatis、Netty、Dubbo），补技术深度,keep,23130,Java,2024-03-19,2026-10-17,https://github.com/doocs/source-code-hunter
-yudaocode/yudao-boot-mini,后端 / 自托管服务,芋道后台管理精简版，国内后台系统常见起点,review,215,PLpgSQL,2024-07-30,2026-09-27,https://github.com/yudaocode/yudao-boot-mini
-browser-use/browser-use,浏览器 / 桌面自动化,Python 里最主流的 AI 浏览器代理库，让 agent 操作网页,keep,118550,Python,2026-06-11,2026-10-17,https://github.com/browser-use/browser-use
-Panniantong/Agent-Reach,浏览器 / 桌面自动化,给 agent 装眼睛：读 Twitter、Reddit、YouTube 等内容源,review,99730,Python,2026-06-15,2026-10-15,https://github.com/Panniantong/Agent-Reach
-vercel-labs/agent-browser,浏览器 / 桌面自动化,Vercel 出的浏览器自动化 CLI，给 agent 用；你本机已有同名 skill 封装,keep,44268,Rust,2026-09-08,2026-10-20,https://github.com/vercel-labs/agent-browser
-alibaba/page-agent,浏览器 / 桌面自动化,阿里出的「页面内」GUI agent，注入网页用自然语言操作界面,review,29514,TypeScript,2026-07-13,2026-10-19,https://github.com/alibaba/page-agent
-CursorTouch/Windows-MCP,浏览器 / 桌面自动化,让 MCP 客户端直接操作 Windows 桌面（点击、输入、截图）,review,9583,Python,2026-10-19,2026-10-20,https://github.com/CursorTouch/Windows-MCP
-morluto/rea,代码理解 / 知识图谱,用 agent 做逆向：从应用行为一路拆到原生二进制,review,337300,TypeScript,2026-10-15,2026-10-19,https://github.com/morluto/rea
-Graphify-Labs/graphify,代码理解 / 知识图谱,把代码库连同文档、SQL、配置、PDF 一起转成可查询的知识库,review,129198,Python,2026-06-15,2026-10-16,https://github.com/Graphify-Labs/graphify
-colbymchenry/codegraph,代码理解 / 知识图谱,预索引的代码知识图谱，代码改动后自动同步，供多种编码 agent 使用,review,74465,C,2026-05-28,2026-10-20,https://github.com/colbymchenry/codegraph
-abhigyanpatwari/GitNexus,代码理解 / 知识图谱,零服务器的代码智能引擎，本地建索引不依赖后端,review,47955,TypeScript,2026-06-26,2026-10-19,https://github.com/abhigyanpatwari/GitNexus
-tirth8205/code-review-graph,代码理解 / 知识图谱,本地优先的代码智能图，走 MCP/CLI，用于代码评审时给足上下文,review,32264,Python,2026-05-28,2026-10-16,https://github.com/tirth8205/code-review-graph
-yamadashy/repomix,代码理解 / 知识图谱,把整个仓库打包成一个 AI 友好的单文件，提问前先喂给它,keep,28914,TypeScript,2026-07-06,2026-10-18,https://github.com/yamadashy/repomix
-yikart/AiToEarn,影视 / 自媒体运营,「用 AI 赚钱」类项目合集，偏自媒体变现玩法,drop,26655,TypeScript,2026-07-02,2026-09-18,https://github.com/yikart/AiToEarn
-LibreSpark/LibreTV,影视 / 自媒体运营,一分钟搭一个影视站，支持 Docker 部署,drop,19991,TypeScript,2026-10-19,2026-10-19,https://github.com/LibreSpark/LibreTV
-xmanrui/OpenClaw-bot-review,影视 / 自媒体运营,OpenClaw 的轻量看板，查看 Bot/Agent/模型/会话运行情况,review,2022,TypeScript,2026-06-17,2026-07-18,https://github.com/xmanrui/OpenClaw-bot-review
-TradingAi666/TzFilm-Douyin-Tool,影视 / 自媒体运营,自动从抖音创作者中心导出视频数据，支持后台定时跑,review,408,JavaScript,2026-06-18,2026-05-27,https://github.com/TradingAi666/TzFilm-Douyin-Tool
-rtjowo/Openclaw-With-Apple,影视 / 自媒体运营,无仓库描述，从命名看是 OpenClaw 的苹果生态接入尝试,drop,77,Python,2026-06-18,2026-03-20,https://github.com/rtjowo/Openclaw-With-Apple
-TradingAi666/tzfilm-Group-Digest,影视 / 自媒体运营,无仓库描述，结合作者其他项目看是影视群内容日报工具,drop,31,Python,2026-06-18,2026-06-06,https://github.com/TradingAi666/tzfilm-Group-Digest
-nextlevelbuilder/ui-ux-pro-max-skill,设计 / 前端视觉,UI/UX 设计智能 skill：风格库、调色板、字体搭配、UX 指南；你本机已装,keep,137631,Python,2026-08-03,2026-10-15,https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
-VoltAgent/awesome-design-md,设计 / 前端视觉,各大品牌设计系统的 DESIGN.md 合集，丢进项目让 AI 照着做,keep,122336,未标注,2026-08-05,2026-10-14,https://github.com/VoltAgent/awesome-design-md
-JCodesMore/ai-website-cloner-template,设计 / 前端视觉,一条命令用 AI 编码 agent 克隆任意网站,review,37011,TypeScript,2026-06-25,2026-10-19,https://github.com/JCodesMore/ai-website-cloner-template
-zexuanw958-svg/travel-plan-viz,设计 / 前端视觉,把旅行行程生成单文件、可离线、手机优先的 HTML（地图+时间轴）,review,407,JavaScript,2026-06-16,2026-10-17,https://github.com/zexuanw958-svg/travel-plan-viz
-Renly1994/memory-map-postcard,设计 / 前端视觉,把旅行照片重绘成明信片（保留地标、疏朗留白、双墨色排版）,drop,5,未标注,2026-10-13,2026-10-05,https://github.com/Renly1994/memory-map-postcard
-TapXWorld/ChinaTextbook,教育 / 教材课程,小初高到大学的 PDF 教材合集,keep,83063,Roff,2026-06-29,2025-10-18,https://github.com/TapXWorld/ChinaTextbook
-PKUanonym/REKCARC-TSC-UHT,教育 / 教材课程,清华计算机系课程攻略：培养方案、作业、考试资料,review,37917,HTML,2024-03-19,2026-09-17,https://github.com/PKUanonym/REKCARC-TSC-UHT
-edu-ai-builders/math-viz-kit,教育 / 教材课程,123 个数学知识点的可视化工具集，配 AI 生成 skill,review,83,HTML,2026-09-16,2026-04-16,https://github.com/edu-ai-builders/math-viz-kit
-lixiang1076/kid-tutor,教育 / 教材课程,AI 小学家教：苏格拉底式提问 + 自适应难度，面向 6-12 岁,review,2,Python,2026-09-16,2026-02-26,https://github.com/lixiang1076/kid-tutor
-teddywuinfo/ai-family-learning,教育 / 教材课程,面向小学生和家长的 AI 自学课程站（45 课），含学习教练 skill,review,1,TypeScript,2026-09-16,2026-09-08,https://github.com/teddywuinfo/ai-family-learning
-rtk-ai/rtk,模型网关 / 推理基建,Rust CLI 代理，把常见开发命令的输出压缩，省 60-90% 的 token,keep,83988,Rust,2026-07-23,2026-10-20,https://github.com/rtk-ai/rtk
-QuantumNous/new-api,模型网关 / 推理基建,把各家大模型聚合成统一 OpenAI 接口再分发，自建网关首选,keep,50279,Go,2026-07-01,2026-10-19,https://github.com/QuantumNous/new-api
-yetone/magpie,模型网关 / 推理基建,菜单栏里做模型路由：Codex 接 DeepSeek、Claude Code 接 Kimi，你之前研究过,keep,17065,Go,2026-10-19,2026-10-20,https://github.com/yetone/magpie
-eternity4719/HowToLiveBetter,生活 / 杂项工具,高性价比人生指南：长寿、理财、法律、医保、婚育，每条标成本收益与出处,review,66421,HTML,2026-10-14,2026-10-15,https://github.com/eternity4719/HowToLiveBetter
-bilawalsidhu/gods-eye-view,生活 / 杂项工具,浏览器里的间谍卫星模拟器，数据是真的（开源空间情报）,review,58285,JavaScript,2026-10-10,2026-10-20,https://github.com/bilawalsidhu/gods-eye-view
-block/buzz,生活 / 杂项工具,Block 出的「蜂群思维」通信平台，偏概念性产品,drop,36163,Rust,2026-08-05,2026-10-20,https://github.com/block/buzz
-game1024/OpenSpeedy,生活 / 杂项工具,开源游戏变速器，单机/模拟器加速用,drop,20000,TypeScript,2026-10-19,2026-10-20,https://github.com/game1024/OpenSpeedy
-farion1231/Way-to-ChatGPT-Plus,生活 / 杂项工具,大陆用银联信用卡经 App Store 订阅 ChatGPT Plus 的实操记录,review,1666,未标注,2026-08-11,2025-06-20,https://github.com/farion1231/Way-to-ChatGPT-Plus
-nesszer/Win-CodexBar,生活 / 杂项工具,Windows 上查看 Codex / Claude Code 的用量统计，免登录,keep,1169,Rust,2026-09-02,2026-10-20,https://github.com/nesszer/Win-CodexBar
-zhulin025/Codex-QQ-Skin,生活 / 杂项工具,Codex 皮肤生成器（沉浸式女友、复古 QQ 风），纯玩,drop,578,JavaScript,2026-08-05,2026-08-11,https://github.com/zhulin025/Codex-QQ-Skin
-timepatience/-Football-Match-Deep-Analysis-Skill-v4-Group-to-Knockout-Edition,生活 / 杂项工具,无仓库描述，足球比赛深度分析 skill（小组到淘汰赛版）,drop,15,未标注,2026-07-01,2026-06-28,https://github.com/timepatience/-Football-Match-Deep-Analysis-Skill-v4-Group-to-Knockout-Edition
-calesthio/OpenMontage,影音图像 / 文档处理,开源 agent 视频生产系统，12 条生产线、100+ 素材能力,review,69955,Python,2026-06-25,2026-10-16,https://github.com/calesthio/OpenMontage
-OpenBMB/VoxCPM,影音图像 / 文档处理,面壁智能的无分词 TTS，支持多语种与创意音色设计,review,39596,Python,2026-08-05,2026-10-08,https://github.com/OpenBMB/VoxCPM
-iOfficeAI/OfficeCLI,影音图像 / 文档处理,专为 AI agent 设计的 Office 命令行，能读写 Word/Excel/PPT,review,32198,C#,2026-08-05,2026-10-13,https://github.com/iOfficeAI/OfficeCLI
-hypit-ai/hypit,影音图像 / 文档处理,用 AI agent 复刻爆款视频的完整工作流（不止脚本，含换脸等）,review,24018,TypeScript,2026-10-19,2026-10-19,https://github.com/hypit-ai/hypit
-KnifeLemon/Filee,影音图像 / 文档处理,离线可用的文件转换器，拖拽转 244+ 种格式，不上传,keep,6519,C#,2026-10-19,2026-10-19,https://github.com/KnifeLemon/Filee
-ZihangDong/toolknit-desktop,影音图像 / 文档处理,桌面工具箱：音视频、图片、PDF、AI 处理合一,review,1718,JavaScript,2026-08-05,2026-10-18,https://github.com/ZihangDong/toolknit-desktop
-thedotmack/claude-mem,记忆 / 上下文管理,跨会话持久记忆，把 agent 干过的事抓下来下次接着用,keep,101817,TypeScript,2026-06-26,2026-10-20,https://github.com/thedotmack/claude-mem
-jarrodwatts/claude-hud,记忆 / 上下文管理,Claude Code 插件，实时显示上下文占用、在跑的工具、后台任务,keep,28657,JavaScript,2026-05-13,2026-10-19,https://github.com/jarrodwatts/claude-hud
-AtreideJZ/personalized-llm-wiki,记忆 / 上下文管理,按 Karpathy 的 LLM-Wiki 概念初始化一套个人知识库,drop,2,未标注,2026-07-08,2026-07-07,https://github.com/AtreideJZ/personalized-llm-wiki
-virgiliojr94/book-to-skill,中文专家视角蒸馏,把技术书 PDF 转成可学习、可引用的 skill，长文档知识化,review,35374,Python,2026-07-01,2026-10-18,https://github.com/virgiliojr94/book-to-skill
-jangviktor-web/nihaixia,中文专家视角蒸馏,倪海厦视角的中医 skill，蒸馏伤寒论、金匮、针灸等辨证思路,review,3639,HTML,2026-07-13,2026-10-15,https://github.com/jangviktor-web/nihaixia
-ProfSynapse/Professor-Synapse,中文专家视角蒸馏,无仓库描述，从命名看是某位「教授」的人格化 skill，需打开确认,drop,3471,Python,2026-06-26,2026-08-25,https://github.com/ProfSynapse/Professor-Synapse
-hotcoffeeshake/tong-jincheng-skill,中文专家视角蒸馏,童锦程视角 skill，用「深情祖师爷」的框架分析人际关系,drop,2923,未标注,2026-07-07,2026-06-22,https://github.com/hotcoffeeshake/tong-jincheng-skill
-moomin-bxs/wenben-jiedu-zhuanjiatuan,中文专家视角蒸馏,文本解读专家团：十位文学名家的方法论 + 分诊台，报篇目自动选人,review,3,未标注,2026-09-16,2026-08-22,https://github.com/moomin-bxs/wenben-jiedu-zhuanjiatuan
-deepseek-ai/deepseek-harness,Agent 运行时 / 编排,DeepSeek 官方 harness，一切皆插件；你本机的 dsh 就是它,keep,254522,TypeScript,2026-08-14,2026-10-17,https://github.com/deepseek-ai/deepseek-harness
-multica-ai/multica,Agent 运行时 / 编排,人和 AI agent 当一支队伍协作，可自托管,review,53234,Go,2026-06-09,2026-10-19,https://github.com/multica-ai/multica
-codewhale-hq/Codewhale,Agent 运行时 / 编排,Rust 写的 agent 引擎 + 终端客户端，可换模型供应商,review,41106,Rust,2026-06-17,2026-10-19,https://github.com/codewhale-hq/Codewhale
-mindfold-ai/Trellis,Agent 运行时 / 编排,自称「最好的 agent harness」，管工具与上下文的运行骨架,review,14982,TypeScript,2026-07-01,2026-09-29,https://github.com/mindfold-ai/Trellis
-iflytek/astron-agent,Agent 运行时 / 编排,科大讯飞的企业级 agent 工作流平台，Java 技术栈、偏商用私有化,review,8916,Java,2026-06-24,2026-10-14,https://github.com/iflytek/astron-agent
-xiaotianfotos/homerail,Agent 运行时 / 编排,语音优先的本地 agent 编排，跑可审计的 DAG 工作流,drop,996,TypeScript,2026-07-09,2026-09-25,https://github.com/xiaotianfotos/homerail
-EvovexAI/EvoFlow,Agent 运行时 / 编排,原生 agent runtime：智能体员工、编排、知识库、长任务,drop,483,TypeScript,2026-09-28,2026-10-19,https://github.com/EvovexAI/EvoFlow
-fancy1108/Clutch,Agent 运行时 / 编排,Tauri + LangGraph 的本地多智能体桌面应用，作者个人项目,drop,90,Python,2026-07-06,2026-10-13,https://github.com/fancy1108/Clutch
-obra/superpowers,Agent 技能 / 方法论,Agent 软件开发方法论：先头脑风暴出规格→写实施计划→红绿 TDD→子代理开发，你本机已装,keep,302148,Shell,2026-05-29,2026-10-10,https://github.com/obra/superpowers
-mattpocock/skills,Agent 技能 / 方法论,一位工程师 .agents 目录里实战 skills 的原样导出，偏日常编码习惯,review,297546,Shell,2026-07-01,2026-10-19,https://github.com/mattpocock/skills
-affaan-m/ECC,Agent 技能 / 方法论,把 skills、本能反应、记忆、安全策略打包成一套 agent harness 性能优化层,review,284163,JavaScript,2026-05-13,2026-10-19,https://github.com/affaan-m/ECC
-multica-ai/andrej-karpathy-skills,Agent 技能 / 方法论,单个 CLAUDE.md 文件，用 Karpathy 的工程观纠偏 AI 编码行为,keep,221235,未标注,2026-05-13,2026-04-20,https://github.com/multica-ai/andrej-karpathy-skills
-msitarzewski/agency-agents,Agent 技能 / 方法论,一句话搭出「一整个 AI 代理公司」：前端、社区运营等角色全套,review,161784,Shell,2026-06-09,2026-10-19,https://github.com/msitarzewski/agency-agents
-addyosmani/agent-skills,Agent 技能 / 方法论,Google 的 Addy Osmani 出的生产级工程 skills（性能、可维护性向）,keep,108642,JavaScript,2026-06-15,2026-10-13,https://github.com/addyosmani/agent-skills
-hesreallyhim/awesome-claude-code,Agent 技能 / 方法论,Claude Code 生态的索引式合集，用来「找东西」而不是直接用,review,56044,Python,2026-06-25,2026-10-20,https://github.com/hesreallyhim/awesome-claude-code
-alchaincyf/nuwa-skill,Agent 技能 / 方法论,「蒸馏任何人」：把某人的心智模型、决策启发式、表达 DNA 抽成 skill,review,35082,Python,2026-07-06,2026-10-17,https://github.com/alchaincyf/nuwa-skill
-phuryn/pm-skills,Agent 技能 / 方法论,产品经理向 skills 市场：从需求发现到上线策略 100+ 条,review,27222,未标注,2026-06-24,2026-10-16,https://github.com/phuryn/pm-skills
-VoltAgent/awesome-claude-code-subagents,Agent 技能 / 方法论,100+ 现成子代理定义，按开发场景分类，可直接抄配置,review,25868,Shell,2026-06-25,2026-10-11,https://github.com/VoltAgent/awesome-claude-code-subagents
-KKKKhazix/khazix-skills,Agent 技能 / 方法论,数字生命卡兹克开源的一套 skills（定目标、洁癖、分析等）,review,21509,Python,2026-06-26,2026-10-01,https://github.com/KKKKhazix/khazix-skills
-jnMetaCode/agency-agents-zh,Agent 技能 / 方法论,上面那个的 277 角色中文版，覆盖 20 个部门，中文场景更顺手,keep,21392,Shell,2026-06-22,2026-10-20,https://github.com/jnMetaCode/agency-agents-zh
-slavingia/skills,Agent 技能 / 方法论,基于《极简创业者》一书的经营方法论 skill,drop,10920,未标注,2026-07-13,2026-04-14,https://github.com/slavingia/skills
-liuxingqitd/skills-hub,Agent 技能 / 方法论,本地面板，用来管理/同步/整理已装的 AI 编码 agent skills,review,81,TypeScript,2026-06-14,2026-08-31,https://github.com/liuxingqitd/skills-hub
-blader/humanizer,写作 / 去 AI 味,去掉文本里的 AI 写作痕迹（套话、排比、无意义过渡）,keep,58528,Python,2026-09-08,2026-10-16,https://github.com/blader/humanizer
-cathrynlavery/diagram-design,写作 / 去 AI 味,编辑级图表/示意图的版式规范，给编码 agent 生成图时用,review,58458,HTML,2026-07-08,2026-10-20,https://github.com/cathrynlavery/diagram-design
-op7418/Humanizer-zh,写作 / 去 AI 味,Humanizer 的中文版，针对中文 AI 腔调做处理,keep,20100,Python,2026-06-26,2026-09-23,https://github.com/op7418/Humanizer-zh
+﻿仓库,分类,中文用途,标签,建议,★,语言,star日期,最后提交,链接
+public-apis/public-apis,后端 / 自托管服务,免费 API 的集体清单，做小工具找数据源时先翻这里,合集,keep,490537,Python,2026-07-08,2026-10-19,https://github.com/public-apis/public-apis
+macrozheng/mall,后端 / 自托管服务,Spring Boot + MyBatis 的完整电商系统，学习/二次开发用,教程 中文,review,84932,Java,2026-06-22,2026-09-15,https://github.com/macrozheng/mall
+metabase/metabase,后端 / 自托管服务,开源 BI 与内嵌分析工具，接数据库就能出报表看板,Web,review,49745,Clojure,2026-09-18,2026-10-20,https://github.com/metabase/metabase
+glanceapp/glance,后端 / 自托管服务,自托管的聚合首页，把各类订阅、信息源收在一屏,Web,review,37561,Go,2026-06-22,2026-10-15,https://github.com/glanceapp/glance
+doocs/source-code-hunter,后端 / 自托管服务,主流框架源码剖析（Spring、MyBatis、Netty、Dubbo），补技术深度,教程 中文,keep,23130,Java,2024-03-19,2026-10-17,https://github.com/doocs/source-code-hunter
+yudaocode/yudao-boot-mini,后端 / 自托管服务,芋道后台管理精简版，国内后台系统常见起点,教程 中文 低星,review,215,PLpgSQL,2024-07-30,2026-09-27,https://github.com/yudaocode/yudao-boot-mini
+browser-use/browser-use,浏览器 / 桌面自动化,Python 里最主流的 AI 浏览器代理库，让 agent 操作网页,库,keep,118550,Python,2026-06-11,2026-10-17,https://github.com/browser-use/browser-use
+Panniantong/Agent-Reach,浏览器 / 桌面自动化,给 agent 装眼睛：读 Twitter、Reddit、YouTube 等内容源,库,review,99730,Python,2026-06-15,2026-10-15,https://github.com/Panniantong/Agent-Reach
+vercel-labs/agent-browser,浏览器 / 桌面自动化,Vercel 出的浏览器自动化 CLI，给 agent 用；你本机已有同名 skill 封装,CLI 已装,keep,44268,Rust,2026-09-08,2026-10-20,https://github.com/vercel-labs/agent-browser
+alibaba/page-agent,浏览器 / 桌面自动化,阿里出的「页面内」GUI agent，注入网页用自然语言操作界面,库,review,29514,TypeScript,2026-07-13,2026-10-19,https://github.com/alibaba/page-agent
+CursorTouch/Windows-MCP,浏览器 / 桌面自动化,让 MCP 客户端直接操作 Windows 桌面（点击、输入、截图）,MCP,review,9583,Python,2026-10-19,2026-10-20,https://github.com/CursorTouch/Windows-MCP
+morluto/rea,代码理解 / 知识图谱,用 agent 做逆向：从应用行为一路拆到原生二进制,CLI,review,337300,TypeScript,2026-10-15,2026-10-19,https://github.com/morluto/rea
+Graphify-Labs/graphify,代码理解 / 知识图谱,把代码库连同文档、SQL、配置、PDF 一起转成可查询的知识库,CLI 重复,review,129198,Python,2026-06-15,2026-10-16,https://github.com/Graphify-Labs/graphify
+colbymchenry/codegraph,代码理解 / 知识图谱,预索引的代码知识图谱，代码改动后自动同步，供多种编码 agent 使用,插件 重复,review,74465,C,2026-05-28,2026-10-20,https://github.com/colbymchenry/codegraph
+abhigyanpatwari/GitNexus,代码理解 / 知识图谱,零服务器的代码智能引擎，本地建索引不依赖后端,Web 重复,review,47955,TypeScript,2026-06-26,2026-10-19,https://github.com/abhigyanpatwari/GitNexus
+tirth8205/code-review-graph,代码理解 / 知识图谱,本地优先的代码智能图，走 MCP/CLI，用于代码评审时给足上下文,MCP 重复,review,32264,Python,2026-05-28,2026-10-16,https://github.com/tirth8205/code-review-graph
+yamadashy/repomix,代码理解 / 知识图谱,把整个仓库打包成一个 AI 友好的单文件，提问前先喂给它,CLI,keep,28914,TypeScript,2026-07-06,2026-10-18,https://github.com/yamadashy/repomix
+yikart/AiToEarn,影视 / 自媒体运营,「用 AI 赚钱」类项目合集，偏自媒体变现玩法,合集 中文,drop,26655,TypeScript,2026-07-02,2026-09-18,https://github.com/yikart/AiToEarn
+LibreSpark/LibreTV,影视 / 自媒体运营,一分钟搭一个影视站，支持 Docker 部署,Web 中文,drop,19991,TypeScript,2026-10-19,2026-10-19,https://github.com/LibreSpark/LibreTV
+xmanrui/OpenClaw-bot-review,影视 / 自媒体运营,OpenClaw 的轻量看板，查看 Bot/Agent/模型/会话运行情况,Web,review,2022,TypeScript,2026-06-17,2026-07-18,https://github.com/xmanrui/OpenClaw-bot-review
+TradingAi666/TzFilm-Douyin-Tool,影视 / 自媒体运营,自动从抖音创作者中心导出视频数据，支持后台定时跑,库 中文 低星,review,408,JavaScript,2026-06-18,2026-05-27,https://github.com/TradingAi666/TzFilm-Douyin-Tool
+rtjowo/Openclaw-With-Apple,影视 / 自媒体运营,无仓库描述，从命名看是 OpenClaw 的苹果生态接入尝试,库 低星 无描述,drop,77,Python,2026-06-18,2026-03-20,https://github.com/rtjowo/Openclaw-With-Apple
+TradingAi666/tzfilm-Group-Digest,影视 / 自媒体运营,无仓库描述，结合作者其他项目看是影视群内容日报工具,库 中文 低星 无描述,drop,31,Python,2026-06-18,2026-06-06,https://github.com/TradingAi666/tzfilm-Group-Digest
+nextlevelbuilder/ui-ux-pro-max-skill,设计 / 前端视觉,UI/UX 设计智能 skill：风格库、调色板、字体搭配、UX 指南；你本机已装,插件 已装,keep,137631,Python,2026-08-03,2026-10-15,https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+VoltAgent/awesome-design-md,设计 / 前端视觉,各大品牌设计系统的 DESIGN.md 合集，丢进项目让 AI 照着做,合集,keep,122336,未标注,2026-08-05,2026-10-14,https://github.com/VoltAgent/awesome-design-md
+JCodesMore/ai-website-cloner-template,设计 / 前端视觉,一条命令用 AI 编码 agent 克隆任意网站,模板,review,37011,TypeScript,2026-06-25,2026-10-19,https://github.com/JCodesMore/ai-website-cloner-template
+zexuanw958-svg/travel-plan-viz,设计 / 前端视觉,把旅行行程生成单文件、可离线、手机优先的 HTML（地图+时间轴）,Web 中文 低星,review,407,JavaScript,2026-06-16,2026-10-17,https://github.com/zexuanw958-svg/travel-plan-viz
+Renly1994/memory-map-postcard,设计 / 前端视觉,把旅行照片重绘成明信片（保留地标、疏朗留白、双墨色排版）,插件 中文 低星,drop,5,未标注,2026-10-13,2026-10-05,https://github.com/Renly1994/memory-map-postcard
+TapXWorld/ChinaTextbook,教育 / 教材课程,小初高到大学的 PDF 教材合集,合集 中文,keep,83063,Roff,2026-06-29,2025-10-18,https://github.com/TapXWorld/ChinaTextbook
+PKUanonym/REKCARC-TSC-UHT,教育 / 教材课程,清华计算机系课程攻略：培养方案、作业、考试资料,合集 教程 中文,review,37917,HTML,2024-03-19,2026-09-17,https://github.com/PKUanonym/REKCARC-TSC-UHT
+edu-ai-builders/math-viz-kit,教育 / 教材课程,123 个数学知识点的可视化工具集，配 AI 生成 skill,库 中文 低星,review,83,HTML,2026-09-16,2026-04-16,https://github.com/edu-ai-builders/math-viz-kit
+lixiang1076/kid-tutor,教育 / 教材课程,AI 小学家教：苏格拉底式提问 + 自适应难度，面向 6-12 岁,插件 中文 低星,review,2,Python,2026-09-16,2026-02-26,https://github.com/lixiang1076/kid-tutor
+teddywuinfo/ai-family-learning,教育 / 教材课程,面向小学生和家长的 AI 自学课程站（45 课），含学习教练 skill,Web 中文 低星,review,1,TypeScript,2026-09-16,2026-09-08,https://github.com/teddywuinfo/ai-family-learning
+rtk-ai/rtk,模型网关 / 推理基建,Rust CLI 代理，把常见开发命令的输出压缩，省 60-90% 的 token,CLI,keep,83988,Rust,2026-07-23,2026-10-20,https://github.com/rtk-ai/rtk
+QuantumNous/new-api,模型网关 / 推理基建,把各家大模型聚合成统一 OpenAI 接口再分发，自建网关首选,Web,keep,50279,Go,2026-07-01,2026-10-19,https://github.com/QuantumNous/new-api
+yetone/magpie,模型网关 / 推理基建,菜单栏里做模型路由：Codex 接 DeepSeek、Claude Code 接 Kimi，你之前研究过,桌面端,keep,17065,Go,2026-10-19,2026-10-20,https://github.com/yetone/magpie
+eternity4719/HowToLiveBetter,生活 / 杂项工具,高性价比人生指南：长寿、理财、法律、医保、婚育，每条标成本收益与出处,合集 中文,review,66421,HTML,2026-10-14,2026-10-15,https://github.com/eternity4719/HowToLiveBetter
+bilawalsidhu/gods-eye-view,生活 / 杂项工具,浏览器里的间谍卫星模拟器，数据是真的（开源空间情报）,Web,review,58285,JavaScript,2026-10-10,2026-10-20,https://github.com/bilawalsidhu/gods-eye-view
+block/buzz,生活 / 杂项工具,Block 出的「蜂群思维」通信平台，偏概念性产品,库,drop,36163,Rust,2026-08-05,2026-10-20,https://github.com/block/buzz
+game1024/OpenSpeedy,生活 / 杂项工具,开源游戏变速器，单机/模拟器加速用,桌面端,drop,20000,TypeScript,2026-10-19,2026-10-20,https://github.com/game1024/OpenSpeedy
+farion1231/Way-to-ChatGPT-Plus,生活 / 杂项工具,大陆用银联信用卡经 App Store 订阅 ChatGPT Plus 的实操记录,教程 中文,review,1666,未标注,2026-08-11,2025-06-20,https://github.com/farion1231/Way-to-ChatGPT-Plus
+nesszer/Win-CodexBar,生活 / 杂项工具,Windows 上查看 Codex / Claude Code 的用量统计，免登录,桌面端,keep,1169,Rust,2026-09-02,2026-10-20,https://github.com/nesszer/Win-CodexBar
+zhulin025/Codex-QQ-Skin,生活 / 杂项工具,Codex 皮肤生成器（沉浸式女友、复古 QQ 风），纯玩,插件 中文 低星,drop,578,JavaScript,2026-08-05,2026-08-11,https://github.com/zhulin025/Codex-QQ-Skin
+timepatience/-Football-Match-Deep-Analysis-Skill-v4-Group-to-Knockout-Edition,生活 / 杂项工具,无仓库描述，足球比赛深度分析 skill（小组到淘汰赛版）,插件 中文 低星 无描述,drop,15,未标注,2026-07-01,2026-06-28,https://github.com/timepatience/-Football-Match-Deep-Analysis-Skill-v4-Group-to-Knockout-Edition
+calesthio/OpenMontage,影音图像 / 文档处理,开源 agent 视频生产系统，12 条生产线、100+ 素材能力,库,review,69955,Python,2026-06-25,2026-10-16,https://github.com/calesthio/OpenMontage
+OpenBMB/VoxCPM,影音图像 / 文档处理,面壁智能的无分词 TTS，支持多语种与创意音色设计,库,review,39596,Python,2026-08-05,2026-10-08,https://github.com/OpenBMB/VoxCPM
+iOfficeAI/OfficeCLI,影音图像 / 文档处理,专为 AI agent 设计的 Office 命令行，能读写 Word/Excel/PPT,CLI,review,32198,C#,2026-08-05,2026-10-13,https://github.com/iOfficeAI/OfficeCLI
+hypit-ai/hypit,影音图像 / 文档处理,用 AI agent 复刻爆款视频的完整工作流（不止脚本，含换脸等）,Web 中文,review,24018,TypeScript,2026-10-19,2026-10-19,https://github.com/hypit-ai/hypit
+KnifeLemon/Filee,影音图像 / 文档处理,离线可用的文件转换器，拖拽转 244+ 种格式，不上传,桌面端,keep,6519,C#,2026-10-19,2026-10-19,https://github.com/KnifeLemon/Filee
+ZihangDong/toolknit-desktop,影音图像 / 文档处理,桌面工具箱：音视频、图片、PDF、AI 处理合一,桌面端 中文,review,1718,JavaScript,2026-08-05,2026-10-18,https://github.com/ZihangDong/toolknit-desktop
+thedotmack/claude-mem,记忆 / 上下文管理,跨会话持久记忆，把 agent 干过的事抓下来下次接着用,插件,keep,101817,TypeScript,2026-06-26,2026-10-20,https://github.com/thedotmack/claude-mem
+jarrodwatts/claude-hud,记忆 / 上下文管理,Claude Code 插件，实时显示上下文占用、在跑的工具、后台任务,插件,keep,28657,JavaScript,2026-05-13,2026-10-19,https://github.com/jarrodwatts/claude-hud
+AtreideJZ/personalized-llm-wiki,记忆 / 上下文管理,按 Karpathy 的 LLM-Wiki 概念初始化一套个人知识库,教程 低星,drop,2,未标注,2026-07-08,2026-07-07,https://github.com/AtreideJZ/personalized-llm-wiki
+virgiliojr94/book-to-skill,中文专家视角蒸馏,把技术书 PDF 转成可学习、可引用的 skill，长文档知识化,CLI,review,35374,Python,2026-07-01,2026-10-18,https://github.com/virgiliojr94/book-to-skill
+jangviktor-web/nihaixia,中文专家视角蒸馏,倪海厦视角的中医 skill，蒸馏伤寒论、金匮、针灸等辨证思路,插件 中文,review,3639,HTML,2026-07-13,2026-10-15,https://github.com/jangviktor-web/nihaixia
+ProfSynapse/Professor-Synapse,中文专家视角蒸馏,无仓库描述，从命名看是某位「教授」的人格化 skill，需打开确认,插件 无描述,drop,3471,Python,2026-06-26,2026-08-25,https://github.com/ProfSynapse/Professor-Synapse
+hotcoffeeshake/tong-jincheng-skill,中文专家视角蒸馏,童锦程视角 skill，用「深情祖师爷」的框架分析人际关系,插件 中文,drop,2923,未标注,2026-07-07,2026-06-22,https://github.com/hotcoffeeshake/tong-jincheng-skill
+moomin-bxs/wenben-jiedu-zhuanjiatuan,中文专家视角蒸馏,文本解读专家团：十位文学名家的方法论 + 分诊台，报篇目自动选人,插件 中文 低星,review,3,未标注,2026-09-16,2026-08-22,https://github.com/moomin-bxs/wenben-jiedu-zhuanjiatuan
+deepseek-ai/deepseek-harness,Agent 运行时 / 编排,DeepSeek 官方 harness，一切皆插件；你本机的 dsh 就是它,CLI 已装,keep,254522,TypeScript,2026-08-14,2026-10-17,https://github.com/deepseek-ai/deepseek-harness
+multica-ai/multica,Agent 运行时 / 编排,人和 AI agent 当一支队伍协作，可自托管,库,review,53234,Go,2026-06-09,2026-10-19,https://github.com/multica-ai/multica
+codewhale-hq/Codewhale,Agent 运行时 / 编排,Rust 写的 agent 引擎 + 终端客户端，可换模型供应商,CLI,review,41106,Rust,2026-06-17,2026-10-19,https://github.com/codewhale-hq/Codewhale
+mindfold-ai/Trellis,Agent 运行时 / 编排,自称「最好的 agent harness」，管工具与上下文的运行骨架,CLI,review,14982,TypeScript,2026-07-01,2026-09-29,https://github.com/mindfold-ai/Trellis
+iflytek/astron-agent,Agent 运行时 / 编排,科大讯飞的企业级 agent 工作流平台，Java 技术栈、偏商用私有化,库,review,8916,Java,2026-06-24,2026-10-14,https://github.com/iflytek/astron-agent
+xiaotianfotos/homerail,Agent 运行时 / 编排,语音优先的本地 agent 编排，跑可审计的 DAG 工作流,库 低星,drop,996,TypeScript,2026-07-09,2026-09-25,https://github.com/xiaotianfotos/homerail
+EvovexAI/EvoFlow,Agent 运行时 / 编排,原生 agent runtime：智能体员工、编排、知识库、长任务,桌面端 中文 低星,drop,483,TypeScript,2026-09-28,2026-10-19,https://github.com/EvovexAI/EvoFlow
+fancy1108/Clutch,Agent 运行时 / 编排,Tauri + LangGraph 的本地多智能体桌面应用，作者个人项目,桌面端 低星,drop,90,Python,2026-07-06,2026-10-13,https://github.com/fancy1108/Clutch
+obra/superpowers,Agent 技能 / 方法论,Agent 软件开发方法论：先头脑风暴出规格→写实施计划→红绿 TDD→子代理开发，你本机已装,插件 已装,keep,302148,Shell,2026-05-29,2026-10-10,https://github.com/obra/superpowers
+mattpocock/skills,Agent 技能 / 方法论,一位工程师 .agents 目录里实战 skills 的原样导出，偏日常编码习惯,合集,review,297546,Shell,2026-07-01,2026-10-19,https://github.com/mattpocock/skills
+affaan-m/ECC,Agent 技能 / 方法论,把 skills、本能反应、记忆、安全策略打包成一套 agent harness 性能优化层,合集,review,284163,JavaScript,2026-05-13,2026-10-19,https://github.com/affaan-m/ECC
+multica-ai/andrej-karpathy-skills,Agent 技能 / 方法论,单个 CLAUDE.md 文件，用 Karpathy 的工程观纠偏 AI 编码行为,插件,keep,221235,未标注,2026-05-13,2026-04-20,https://github.com/multica-ai/andrej-karpathy-skills
+msitarzewski/agency-agents,Agent 技能 / 方法论,一句话搭出「一整个 AI 代理公司」：前端、社区运营等角色全套,合集,review,161784,Shell,2026-06-09,2026-10-19,https://github.com/msitarzewski/agency-agents
+addyosmani/agent-skills,Agent 技能 / 方法论,Google 的 Addy Osmani 出的生产级工程 skills（性能、可维护性向）,合集,keep,108642,JavaScript,2026-06-15,2026-10-13,https://github.com/addyosmani/agent-skills
+hesreallyhim/awesome-claude-code,Agent 技能 / 方法论,Claude Code 生态的索引式合集，用来「找东西」而不是直接用,合集,review,56044,Python,2026-06-25,2026-10-20,https://github.com/hesreallyhim/awesome-claude-code
+alchaincyf/nuwa-skill,Agent 技能 / 方法论,「蒸馏任何人」：把某人的心智模型、决策启发式、表达 DNA 抽成 skill,插件 中文,review,35082,Python,2026-07-06,2026-10-17,https://github.com/alchaincyf/nuwa-skill
+phuryn/pm-skills,Agent 技能 / 方法论,产品经理向 skills 市场：从需求发现到上线策略 100+ 条,合集,review,27222,未标注,2026-06-24,2026-10-16,https://github.com/phuryn/pm-skills
+VoltAgent/awesome-claude-code-subagents,Agent 技能 / 方法论,100+ 现成子代理定义，按开发场景分类，可直接抄配置,合集 重复,review,25868,Shell,2026-06-25,2026-10-11,https://github.com/VoltAgent/awesome-claude-code-subagents
+KKKKhazix/khazix-skills,Agent 技能 / 方法论,数字生命卡兹克开源的一套 skills（定目标、洁癖、分析等）,合集 中文,review,21509,Python,2026-06-26,2026-10-01,https://github.com/KKKKhazix/khazix-skills
+jnMetaCode/agency-agents-zh,Agent 技能 / 方法论,上面那个的 277 角色中文版，覆盖 20 个部门，中文场景更顺手,合集 中文 重复,keep,21392,Shell,2026-06-22,2026-10-20,https://github.com/jnMetaCode/agency-agents-zh
+slavingia/skills,Agent 技能 / 方法论,基于《极简创业者》一书的经营方法论 skill,合集,drop,10920,未标注,2026-07-13,2026-04-14,https://github.com/slavingia/skills
+liuxingqitd/skills-hub,Agent 技能 / 方法论,本地面板，用来管理/同步/整理已装的 AI 编码 agent skills,Web 低星,review,81,TypeScript,2026-06-14,2026-08-31,https://github.com/liuxingqitd/skills-hub
+blader/humanizer,写作 / 去 AI 味,去掉文本里的 AI 写作痕迹（套话、排比、无意义过渡）,插件,keep,58528,Python,2026-09-08,2026-10-16,https://github.com/blader/humanizer
+cathrynlavery/diagram-design,写作 / 去 AI 味,编辑级图表/示意图的版式规范，给编码 agent 生成图时用,插件,review,58458,HTML,2026-07-08,2026-10-20,https://github.com/cathrynlavery/diagram-design
+op7418/Humanizer-zh,写作 / 去 AI 味,Humanizer 的中文版，针对中文 AI 腔调做处理,插件 中文 重复,keep,20100,Python,2026-06-26,2026-09-23,https://github.com/op7418/Humanizer-zh
